@@ -69,15 +69,8 @@ rel="stylesheet" href="src/css/style.css">
 		var json = <?php echo json_encode($json); ?>;
 	</script>
 	<script src="https://cdn.jsdelivr.net/npm/vue/dist/vue.js"></script>
-	<script>
-		var vm = new Vue({
-
-			el: '#show-box',
-			data: json.collection
-
-
-
-		})
+	<script src="vue.js">
+		
 	</script>
 	
 </body>
