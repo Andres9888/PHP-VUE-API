@@ -1,4 +1,4 @@
-# PHP-VUE-API
+# php-vue-api
 
 
 Simple PHP and JavaScript API With VUE.JS
