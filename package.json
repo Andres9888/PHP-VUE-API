@@ -18,7 +18,7 @@
   "homepage": "https://github.com/Andres9888/PHP-VUE-API#readme",
   "devDependencies": {
     "autoprefixer": "^9.6.4",
-    "browser-sync": "^2.26.7",
+    "browser-sync": "^2.27.10",
     "cssnano": "^4.1.10",
     "gulp": "^4.0.2",
     "gulp-postcss": "^8.0.0",
